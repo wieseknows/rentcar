@@ -1,0 +1,103 @@
+F:\mrk\бд и субд\курсовая\rentcar\rentcar\bin\Debug\rentcar.exe.config
+F:\mrk\бд и субд\курсовая\rentcar\rentcar\bin\Debug\rentcar.exe
+F:\mrk\бд и субд\курсовая\rentcar\rentcar\bin\Debug\rentcar.pdb
+F:\mrk\бд и субд\курсовая\rentcar\rentcar\obj\Debug\rentcar.csprojResolveAssemblyReference.cache
+F:\mrk\бд и субд\курсовая\rentcar\rentcar\obj\Debug\rentcar.Properties.Resources.resources
+F:\mrk\бд и субд\курсовая\rentcar\rentcar\obj\Debug\rentcar.csproj.GenerateResource.Cache
+F:\mrk\бд и субд\курсовая\rentcar\rentcar\obj\Debug\rentcar.exe
+F:\mrk\бд и субд\курсовая\rentcar\rentcar\obj\Debug\rentcar.pdb
+F:\mrk\бд и субд\курсовая\rentcar\rentcar\obj\Debug\rentcar.authorize_frm.resources
+F:\mrk\бд и субд\курсовая\rentcar\rentcar\bin\Debug\MySql.Data.dll
+F:\mrk\бд и субд\курсовая\rentcar\rentcar\bin\Debug\MySql.Data.xml
+F:\mrk\бд и субд\курсовая\rentcar\rentcar\obj\Debug\rentcar.registration_frm.resources
+F:\mrk\бд и субд\курсовая\rentcar\rentcar v10.23\rentcar\bin\Debug\rentcar.exe.config
+F:\mrk\бд и субд\курсовая\rentcar\rentcar v10.23\rentcar\obj\Debug\rentcar.exe
+F:\mrk\бд и субд\курсовая\rentcar\rentcar v10.23\rentcar\obj\Debug\rentcar.pdb
+F:\mrk\бд и субд\курсовая\rentcar\rentcar v10.23\rentcar\bin\Debug\rentcar.exe
+F:\mrk\бд и субд\курсовая\rentcar\rentcar v10.23\rentcar\bin\Debug\rentcar.pdb
+F:\mrk\бд и субд\курсовая\rentcar\rentcar v10.23\rentcar\bin\Debug\MySql.Data.dll
+F:\mrk\бд и субд\курсовая\rentcar\rentcar v10.23\rentcar\bin\Debug\MySql.Data.xml
+F:\mrk\бд и субд\курсовая\rentcar\rentcar v10.23\rentcar\obj\Debug\rentcar.csprojResolveAssemblyReference.cache
+F:\mrk\бд и субд\курсовая\rentcar\rentcar v10.23\rentcar\obj\Debug\rentcar.authorize_frm.resources
+F:\mrk\бд и субд\курсовая\rentcar\rentcar v10.23\rentcar\obj\Debug\rentcar.Properties.Resources.resources
+F:\mrk\бд и субд\курсовая\rentcar\rentcar v10.23\rentcar\obj\Debug\rentcar.registration_frm.resources
+F:\mrk\бд и субд\курсовая\rentcar\rentcar v10.23\rentcar\obj\Debug\rentcar.csproj.GenerateResource.Cache
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\bin\Debug\rentcar.exe.config
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\obj\Debug\rentcar.exe
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\obj\Debug\rentcar.pdb
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\bin\Debug\rentcar.exe
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\bin\Debug\rentcar.pdb
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\bin\Debug\MySql.Data.dll
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\bin\Debug\MySql.Data.xml
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\obj\Debug\rentcar.authorize_frm.resources
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\obj\Debug\rentcar.Properties.Resources.resources
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\obj\Debug\rentcar.registration_frm.resources
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\obj\Debug\rentcar.csproj.GenerateResource.Cache
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\obj\Debug\rentcar.admin_frm.resources
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\bin\Debug\MetroFramework.dll
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\bin\Debug\MetroFramework.Fonts.dll
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\obj\Debug\rentcar.addItem_frm.resources
+F:\mrk\бд и субд\курсовая\rentcar\current version\rentcar\obj\Debug\rentcar.csprojResolveAssemblyReference.cache
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\rentcar.exe.config
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.exe
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.pdb
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\rentcar.exe
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\rentcar.pdb
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\MetroFramework.dll
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\MetroFramework.Fonts.dll
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\MySql.Data.dll
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\MySql.Data.xml
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.csprojResolveAssemblyReference.cache
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.addItem_frm.resources
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.authorize_frm.resources
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.admin_frm.resources
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.Properties.Resources.resources
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.registration_frm.resources
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.csproj.GenerateResource.Cache
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.manager_frm.resources
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.view_form.resources
+F:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.forms.manager.addAvtomobil_frm.resources
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\rentcar.exe.config
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\rentcar.exe
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\rentcar.pdb
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\MetroFramework.dll
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\MetroFramework.Fonts.dll
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\MySql.Data.dll
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\bin\Debug\MySql.Data.xml
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.addItem_frm.resources
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.admin_frm.resources
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.authorize_frm.resources
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.registration_frm.resources
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.forms.manager.addAvtomobil_frm.resources
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.manager_frm.resources
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.view_form.resources
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.Properties.Resources.resources
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.csproj.GenerateResource.Cache
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.exe
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.pdb
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.csprojResolveAssemblyReference.cache
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.addKlient_frm.resources
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.addZakaz_frm.resources
+D:\mrk\бд и субд\курсовая\программа\current version\rentcar\obj\Debug\rentcar.forms.authorize.setNewServerSettings.resources
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\bin\Debug\rentcar.exe.config
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.exe
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.pdb
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\bin\Debug\rentcar.exe
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\bin\Debug\rentcar.pdb
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\bin\Debug\MetroFramework.dll
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\bin\Debug\MetroFramework.Fonts.dll
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\bin\Debug\MySql.Data.dll
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\bin\Debug\MySql.Data.xml
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.csprojResolveAssemblyReference.cache
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.forms.authorize.setNewServerSettings.resources
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.addZakaz_frm.resources
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.addKlient_frm.resources
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.addItem_frm.resources
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.admin_frm.resources
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.authorize_frm.resources
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.registration_frm.resources
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.forms.manager.addAvtomobil_frm.resources
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.manager_frm.resources
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.view_form.resources
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.Properties.Resources.resources
+D:\mrk\бд и субд\курсовая\!full\Программа\Исходный код\rentcar\obj\Debug\rentcar.csproj.GenerateResource.Cache

@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E04A4F83-2F9A-4F25-8898-51F09F807069}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>rentcar</RootNamespace>
+    <AssemblyName>rentcar</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.3.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\ModernUI.1.3.0.0\lib\net45\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\worker.cs" />
+    <Compile Include="Forms\authorize\setNewServerSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\authorize\setNewServerSettings.Designer.cs">
+      <DependentUpon>setNewServerSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\manager\addZakaz_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\manager\addZakaz_frm.Designer.cs">
+      <DependentUpon>addZakaz_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\manager\addKlient_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\manager\addKlient_frm.Designer.cs">
+      <DependentUpon>addKlient_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\car.cs" />
+    <Compile Include="Forms\admin\addItem_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\addItem_frm.Designer.cs">
+      <DependentUpon>addItem_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\admin\admin_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\admin\admin_frm.Designer.cs">
+      <DependentUpon>admin_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\authorize\authorize_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\authorize\authorize_frm.Designer.cs">
+      <DependentUpon>authorize_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\authorize\registration_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\authorize\registration_frm.Designer.cs">
+      <DependentUpon>registration_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\manager\addAvtomobil_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\manager\addAvtomobil_frm.Designer.cs">
+      <DependentUpon>addAvtomobil_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\manager\manager_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\manager\manager_frm.Designer.cs">
+      <DependentUpon>manager_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\manager\view_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\manager\view_frm.Designer.cs">
+      <DependentUpon>view_frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\functions.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\server.cs" />
+    <Compile Include="Classes\tableParams.cs" />
+    <Compile Include="Classes\zakaz.cs" />
+    <EmbeddedResource Include="Forms\authorize\setNewServerSettings.resx">
+      <DependentUpon>setNewServerSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\manager\addZakaz_frm.resx">
+      <DependentUpon>addZakaz_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\manager\addKlient_frm.resx">
+      <DependentUpon>addKlient_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\addItem_frm.resx">
+      <DependentUpon>addItem_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\admin\admin_frm.resx">
+      <DependentUpon>admin_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\authorize\authorize_frm.resx">
+      <DependentUpon>authorize_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\authorize\registration_frm.resx">
+      <DependentUpon>registration_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\manager\addAvtomobil_frm.resx">
+      <DependentUpon>addAvtomobil_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\manager\manager_frm.resx">
+      <DependentUpon>manager_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\manager\view_frm.resx">
+      <DependentUpon>view_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_close_act.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_close_pas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading26.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
